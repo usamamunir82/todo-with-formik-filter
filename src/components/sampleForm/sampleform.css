@@ -1,0 +1,18 @@
+
+
+/* .formContainer{background: red;}  */
+.formFields{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.formFields input{
+    width: 200px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}

@@ -1,0 +1,57 @@
+    /* 
+    .todolistContainer{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    
+    
+    }
+
+
+    .listBox{
+        text-align: center;
+        display: flex;
+        gap: 50px;
+        justify-content: space-around;
+        border-radius: 100px;
+        background-color:#00203FFF;
+        -webkit-border-radius: 100px;
+        -moz-border-radius: 100px;
+        -ms-border-radius: 100px;
+        -o-border-radius: 100px;
+    }
+
+    .todoTitle h7{
+        font-size: 18px;
+    text-align: center;
+    padding-top: 7px;
+        color: #ADEFD1FF;
+    }
+    .todoTitle{
+        text-align: center;
+        display: flex;
+        gap: 20px;
+        
+    }
+    .listButon{
+        display: flex;
+        gap: 10px;
+    align-items: center;
+    }
+    .deleteIcon{
+    width: 70px;
+    height: 30px;
+    color: red;
+    }
+    .listButon button{
+        text-align: center;
+        width: 70px;
+        height: 40px;
+        border-radius: 50px;
+        background: rgb(37, 69, 82);
+        color: white;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        -ms-border-radius: 50px;
+        -o-border-radius: 50px;
+    } */

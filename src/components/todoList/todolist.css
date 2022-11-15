@@ -1,0 +1,163 @@
+.listButon {
+  display: flex;
+  justify-content: center;
+}
+.actionButton {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.listbutonIcon {
+  width: 30px;
+  height: 40px;
+  color: green;
+}
+
+.todolistContainer {
+  margin-top: 50px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  background: #adefd1ff;
+  border-radius: 30px;
+}
+
+.listBox {
+  display: flex;
+  gap: 50px;
+  justify-content: space-around;
+}
+.markbuton {
+  display: flex;
+  gap: 15px;
+  padding: 0px 0px 10px 10px;
+}
+.markAll {
+  width: 100px;
+  height: 40px;
+  color: white;
+  background: blueviolet;
+  border-radius: 5px;
+  /*width: 60px;
+    */
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+.markComplete {
+  color: white;
+  width: 150px;
+  height: 40px;
+  /*border: 2px solid white;
+    */
+  /* padding: 10px; */
+  background: blueviolet;
+  border-radius: 5px;
+  /*color: blueviolet;
+    */
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+/* .markbuton button{
+ background-color: blueviolet;
+ color: white;
+ width: 120px;
+ border-radius: 10px;
+ -webkit-border-radius: 10px;
+ -moz-border-radius: 10px;
+ -ms-border-radius: 10px;
+ -o-border-radius: 10px;
+} */
+.todoTitle input {
+  width: 20px;
+  height: 17px;
+}
+.todoTitle {
+  /* text-align: center; */
+  justify-content: center;
+  display: flex;
+  /* gap: 10px; */
+}
+
+table {
+  border-collapse: separate;
+
+  border-spacing: 9px 9px;
+}
+table tr {
+  background-color: rgb(171, 197, 197);
+}
+table thead tr th {
+  padding: 20px;
+}
+table tbody tr td {
+  padding: 10px;
+}
+
+.delico {
+  color: red;
+  width: 24px;
+  height: 24px;
+}
+.deleteeIcon {
+  display: flex;
+  justify-content: center;
+}
+
+.addButon button {
+  width: 170px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 15px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.iconAdd {
+  color: #f58b04;
+}
+.addIcon {
+  position: absolute;
+  padding-top: 18px;
+  padding-right: 140px;
+}
+.addButon {
+    
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+}
+.filterBox{
+  padding-top: 10px;
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    align-items: center;
+}
+.filterBox input{
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.filterBox button {
+  width: 130px;
+  height: 30px;
+  background: blueviolet;
+  color: white;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
